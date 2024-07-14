@@ -6,7 +6,7 @@ export default function Footer() {
     <div className="container-fluid m-0 p-0" id="contact">
     <footer className="text-center text-lg-start text-white bg-dark">
       <section
-               className="d-flex justify-content-between p-4 bg-dark-subtle "
+               className="d-flex justify-content-between p-4 bg-dark-subtle align-items-center"
                >
         
         <div className="me-5 text-dark-emphasis  fs-5 h3">
@@ -17,13 +17,13 @@ export default function Footer() {
         
         <div>
           <a href="/" className="me-3">
-            <i className="bi bi-facebook text-dark-emphasis"></i>
+            <i className="bi bi-facebook text-dark-emphasis fs-3"></i>
           </a>
           <a href="/" className="me-3 ">
-            <i className="bi bi-instagram text-dark-emphasis"></i>
+            <i className="bi bi-instagram text-dark-emphasis fs-3"></i>
           </a>
           <a href="/" className="me-3 ">
-            <i className="bi bi-linkedin text-dark-emphasis"></i>
+            <i className="bi bi-linkedin text-dark-emphasis fs-3"></i>
           </a>
         </div>
        
