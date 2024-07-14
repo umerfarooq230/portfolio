@@ -4,6 +4,10 @@ h1{
   font-optical-sizing: auto;
   font-style: normal;
 }
+html,body{
+  width:100%;
+  overflow-x:hidden;
+}
 #Home,#projects,#contact,#about{
   background: url('../public/bg.png');
   background-position: fixed;
