@@ -1,0 +1,51 @@
+[
+    {
+        "src":"images/html.png",
+        "disc":"HTML"
+    },
+    {
+        "src":"images/CSS.png",
+        "disc":"CSS"
+    },
+    {
+        "src":"images/Bootstrap.png",
+        "disc":"Bootstrap"
+    },
+    {
+        "src":"images/js.png",
+        "disc":"Javascript"
+    },
+    {
+        "src":"images/react.png",
+        "disc":"React JS"
+    },
+    {
+        "src":"images/node.png",
+        "disc":"Node JS"
+    },
+    {
+        "src":"images/express.png",
+        "disc":"Express JS"
+    },
+    {
+        "src":"images/Json.png",
+        "disc":"JSON"
+    },
+    {
+        "src":"images/python.png",
+        "disc":"Pyhton"
+    },
+    {
+        "src":"images/c++.png",
+        "disc":"C++"
+    },
+    {
+        "src":"images/mongo.png",
+        "disc":"Mongo DB"
+    },
+    {
+        "src":"images/sql.png",
+        "disc":"My SQL"
+    }
+    
+]

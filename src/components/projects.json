@@ -1,0 +1,47 @@
+[
+    {
+        "src":"projects/portofolio.png",
+        "title":"Portfolio",
+        "disc":"React Project with basic understanding of AOS ,JSON and UseEffext"
+    },
+    {
+        "src":"projects/news.png",
+        "title":"News App",
+        "disc":"React Project using news api with basic understanding of states, useEffect, useContext and react routing"
+    },
+    {
+        "src":"projects/weather1.png",
+        "title":"Weather App",
+        "disc":"React Project with weather API and basic knowlege of states , props , useEffect and promises"
+    },
+    {
+        "src":"projects/ExpenseTracker.png",
+        "title":"Expense Tracker",
+        "disc":"React Project with state management, list maping and basic arithematic operations"
+    },
+    {
+        "src":"projects/todolist.png",
+        "title":"Todo List",
+        "disc":"React Project with basic understanding of states, useEffect, useContext and LocalStorage"
+    }, 
+    {
+        "src":"projects/Techy.png",
+        "title":"Techy",
+        "disc":"HTML CSS Javascript project a simple landing with basic animations and scroll animation"
+    },
+    {
+        "src":"projects/rock.png",
+        "title":"Rock Paper Scissors",
+        "disc":"Javascript project for basic understanding of conditional statements and random choice generation"
+    },
+    {
+        "src":"projects/calculator.png",
+        "title":"Calculator",
+        "disc":"Html,CSS and basic arithematic javascript project"
+    },
+    {
+        "src":"projects/randompass.png",
+        "title":"Random Password Generator",
+        "disc":"Html,CSS and basic knowlege of concatenation and generating random string using multiple strings"
+    }   
+]
